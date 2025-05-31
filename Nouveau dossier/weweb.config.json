@@ -1,0 +1,6 @@
+{
+  "name": "my-custom-component",
+  "displayName": "My Custom Component",
+  "category": "Custom",
+  "icon": "star"
+}
